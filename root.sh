@@ -14,3 +14,4 @@ rm root.tar.xz
 rm yt.zip
 echo done
 echo use ./dist/proot -S . /bin/bash to start root environment using proot
+
